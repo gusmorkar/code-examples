@@ -1,0 +1,97 @@
+﻿<Randomizador>
+	<Generos>
+		<Genero>Plataforma</Genero>
+    <Genero>Shooter</Genero>
+	  <Genero>Beat and up</Genero>
+    <Genero>Stealth</Genero>
+    <Genero>Survival</Genero>
+    <Genero>Fight</Genero>
+    <Genero>Horror</Genero>
+    <Genero>Metroidvania</Genero>
+    <Genero>Survival Horror</Genero>
+    <Genero>Adventure Text</Genero>
+    <Genero>Adventure</Genero>
+    <Genero>Adventure Point and Click</Genero>
+    <Genero>Visual Novels</Genero>
+    <Genero>Interactive Movies</Genero>
+    <Genero>Action RPG</Genero>
+    <Genero>MMO RPG</Genero>
+    <Genero>Tactical RPG</Genero>
+    <Genero>Sandbox RPG</Genero>
+    <Genero>RPG</Genero>
+    <Genero>Simulation</Genero>
+    <Genero>Real Time Strategie</Genero>
+    <Genero>MOBA</Genero>
+    <Genero>TBS</Genero>
+    <Genero>Tower Defense</Genero>
+    <Genero>Wargame</Genero>
+    <Genero>Turn Based Tatics</Genero>
+    <Genero>Real Time Tatics</Genero>
+    <Genero>Sports</Genero>
+    <Genero>Casual</Genero>
+    <Genero>Boardgame</Genero>
+    <Genero>Music</Genero>
+    <Genero>Roguelike</Genero>
+    <Genero>Logic</Genero>
+    <Genero>Cardgame</Genero>
+    <Genero>Idle</Genero>
+    <Genero>SoulsLike</Genero>
+    <Genero>WarriorLike</Genero>
+    <Genero>Tycoon</Genero>
+  </Generos>
+	<Temas>
+		<Tema>Ciberpunk</Tema>
+    <Tema>Dungeon</Tema>
+    <Tema>Futuristic</Tema>
+    <Tema>Fantasy</Tema>
+    <Tema>Noir</Tema>
+    <Tema>City</Tema>
+    <Tema>History</Tema>
+    <Tema>Horror</Tema>
+    <Tema>Medieval</Tema>
+    <Tema>Dance</Tema>
+    <Tema>Romance</Tema>
+    <Tema>Music</Tema>
+    <Tema>Sports</Tema>
+    <Tema>Movies</Tema>
+    <Tema>Vampire</Tema>
+    <Tema>UFO</Tema>
+    <Tema>Werewolf</Tema>
+    <Tema>Post Apocalympse</Tema>
+    <Tema>Zombies</Tema>
+    <Tema>Animals</Tema>
+    <Tema>Wild West</Tema>
+    <Tema>Time Travel</Tema>
+    <Tema>Space</Tema>
+    <Tema>Sci-fi</Tema>
+    <Tema>Ninjas</Tema>
+    <Tema>Samurai</Tema>
+    <Tema>Dragoes</Tema>
+    <Tema>Myth</Tema>
+    <Tema>Mistery</Tema>
+    <Tema>Music</Tema>
+    <Tema>Pirates</Tema>
+    <Tema>Martial Arts</Tema>
+    <Tema>Hospital</Tema>
+    <Tema>Evolution</Tema>
+    <Tema>Law</Tema>
+    <Tema>Life</Tema>
+    <Tema>Prison</Tema>
+    <Tema>Racing</Tema>
+    <Tema>School</Tema>
+    <Tema>Hacking</Tema>
+    <Tema>Fashion</Tema>
+    <Tema>Comedy</Tema>
+    <Tema>Detective</Tema>
+    <Tema>Military</Tema>
+    <Tema>Government</Tema>
+    <Tema>Superhero</Tema>
+    <Tema>Spy</Tema>
+    <Tema>Rhytim</Tema>
+    <Tema>Transport</Tema>
+    <Tema>Surgery</Tema>
+    <Tema>Virtual Pet</Tema>
+    <Tema>Hunting</Tema>
+    <Tema>Vocabulary</Tema>
+  </Temas>  
+</Randomizador>
